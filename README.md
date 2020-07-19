@@ -1,4 +1,4 @@
-# passwd-game  
+# passwd_game  
 
 欢迎游玩本游戏,预祝您游戏愉快~
 ******
